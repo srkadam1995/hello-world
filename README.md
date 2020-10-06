@@ -1,2 +1,4 @@
 # hello-world
 Using github for the first time
+
+I will be working on one ML project and the first step to start with is to learn the Git and Github.
